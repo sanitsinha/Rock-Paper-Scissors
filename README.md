@@ -29,6 +29,3 @@ A simple and interactive **Rock-Paper-Scissors** web application built using **J
 - **HTML** – Structure  
 - **CSS** – Styling  
 
----
-
-## 📂 Project Structure
